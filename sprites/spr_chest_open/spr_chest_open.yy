@@ -13,10 +13,10 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bb97f494-b91d-404e-9254-e3627f39ee58",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"770defed-a341-4090-b10e-ae58ed3a136e",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"88472773-c07e-4cab-94ea-252c3f1dcabb",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c221c974-fc9e-4f25-bfab-91a2075f3a1f",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"770defed-a341-4090-b10e-ae58ed3a136e",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bb97f494-b91d-404e-9254-e3627f39ee58",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -57,10 +57,10 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"88472773-c07e-4cab-94ea-252c3f1dcabb","path":"sprites/spr_chest_open/spr_chest_open.yy",},},},"Disabled":false,"id":"d1993570-6b0f-4722-985b-d622bd9ec30d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c221c974-fc9e-4f25-bfab-91a2075f3a1f","path":"sprites/spr_chest_open/spr_chest_open.yy",},},},"Disabled":false,"id":"9b14e613-8172-442c-bffa-47c12d6d97a2","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"770defed-a341-4090-b10e-ae58ed3a136e","path":"sprites/spr_chest_open/spr_chest_open.yy",},},},"Disabled":false,"id":"ecbfa8fc-e782-4aa3-86ed-40f793f0a660","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bb97f494-b91d-404e-9254-e3627f39ee58","path":"sprites/spr_chest_open/spr_chest_open.yy",},},},"Disabled":false,"id":"0130da5f-cc39-443c-991a-63d039f0bb01","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bb97f494-b91d-404e-9254-e3627f39ee58","path":"sprites/spr_chest_open/spr_chest_open.yy",},},},"Disabled":false,"id":"0130da5f-cc39-443c-991a-63d039f0bb01","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"770defed-a341-4090-b10e-ae58ed3a136e","path":"sprites/spr_chest_open/spr_chest_open.yy",},},},"Disabled":false,"id":"ecbfa8fc-e782-4aa3-86ed-40f793f0a660","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"88472773-c07e-4cab-94ea-252c3f1dcabb","path":"sprites/spr_chest_open/spr_chest_open.yy",},},},"Disabled":false,"id":"d1993570-6b0f-4722-985b-d622bd9ec30d","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c221c974-fc9e-4f25-bfab-91a2075f3a1f","path":"sprites/spr_chest_open/spr_chest_open.yy",},},},"Disabled":false,"id":"9b14e613-8172-442c-bffa-47c12d6d97a2","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
