@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 0.408,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Level",
+    "path": "folders/Sounds/Level.yy",
   },
   "preload": false,
   "sampleRate": 44100,

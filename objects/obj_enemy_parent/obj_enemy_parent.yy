@@ -35,6 +35,7 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"mv_speed","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0.5","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"death_sequence","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"seq_skelleton_defeat","varType":5,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"is_colliding","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"False","varType":3,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"sword_hit_sword","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"snd_sword_hit","varType":5,},
   ],
   "solid": false,
   "spriteId": null,
