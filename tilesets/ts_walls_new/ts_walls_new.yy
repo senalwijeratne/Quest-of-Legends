@@ -27,8 +27,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_walls_new",
-    "path": "sprites/spr_walls_new/spr_walls_new.yy",
+    "name": "spr_walls",
+    "path": "sprites/spr_walls/spr_walls.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {

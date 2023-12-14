@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_floor_game",
-    "path": "sprites/spr_floor_game/spr_floor_game.yy",
+    "name": "spr_floor",
+    "path": "sprites/spr_floor/spr_floor.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {

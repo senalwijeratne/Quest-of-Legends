@@ -70,8 +70,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_walls",
-    "path": "sprites/spr_walls/spr_walls.yy",
+    "name": "spr_walls_old",
+    "path": "sprites/spr_walls_old/spr_walls_old.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {

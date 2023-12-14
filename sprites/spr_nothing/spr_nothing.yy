@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Helpers",
-    "path": "folders/Sprites/Game/Helpers.yy",
+    "path": "folders/Sprites/Helpers.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
