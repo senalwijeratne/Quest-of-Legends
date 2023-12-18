@@ -16,11 +16,11 @@ coins = 0;
 /// @DnDHash : 4987135A
 /// @DnDInput : 3
 /// @DnDArgument : "expr" "100"
-/// @DnDArgument : "expr_1" "max_hp"
+/// @DnDArgument : "expr_1" "20"
 /// @DnDArgument : "expr_2" "20"
 /// @DnDArgument : "var" "max_hp"
 /// @DnDArgument : "var_1" "hp"
 /// @DnDArgument : "var_2" "player_atk_power"
 max_hp = 100;
-hp = max_hp;
+hp = 20;
 player_atk_power = 20;

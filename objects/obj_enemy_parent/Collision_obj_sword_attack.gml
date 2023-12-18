@@ -16,6 +16,6 @@ else if (! is_colliding){
 	
 	alarm_set(2, 10);
 	
-	audio_play_sound(sword_hit_sword, 0, 0, 1.0, undefined, 1.0);
+	audio_play_sound(snd_sword_hit, 0, 0, 1.0, undefined, 1.0);
 	enemy_hp -= obj_player.player_atk_power;
 }
