@@ -1,3 +1,5 @@
+/// @description block move
+
 var _xprev_collision = instance_place(xprevious, y, [obj_collision_parent]);
 if (!(_xprev_collision > 0))
 {
